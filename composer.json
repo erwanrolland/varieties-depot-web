@@ -20,6 +20,7 @@
         "doctrine/doctrine-bundle": "^1.6",
         "doctrine/doctrine-cache-bundle": "^1.2",
         "doctrine/orm": "^2.5",
+        "html2text/html2text": "^4.1",
         "incenteev/composer-parameter-handler": "^2.0",
         "libre-informatique/sonata-sylius-user-bundle": "^0.4.2",
         "libre-informatique/varieties-bundle": "^0.4.2",
@@ -36,6 +37,7 @@
     },
     "require-dev": {
         "alexandresalome/doctrine-extra-bundle": "^0.3.0",
+        "matthiasnoback/symfony-dependency-injection-test": "^2.1",
         "sensio/generator-bundle": "^3.0",
         "symfony/phpunit-bridge": "^3.0"
     },
